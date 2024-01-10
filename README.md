@@ -1,13 +1,25 @@
-# Paraphrase Tool
+# Paraphrase Tool 📝✨
 
-This Node.js project provides a paraphrasing tool using an external API.
+This Node.js project serves as a paraphrasing tool, leveraging an external API to enhance your writing experience.
 
-## Installation
+# Code Execution Guide
 
-To install the dependencies, use:
+To execute this code, follow these steps:
 
-```bash
-npm install
+## Step 1: Install Node.js
 
-```bash
-npm install
+Ensure that Node.js is installed on your system. If not, download it from [Node.js website](https://nodejs.org/).
+
+## Step 2: Clone the Repository
+
+Clone the GitHub repository containing the paraphrasing library and your JavaScript code using this command:
+
+    https://github.com/adnanmirza1/paraphrasing-tool.git
+
+## Install Dependencies:
+
+    npm install
+
+## Run the Code:
+
+    node index.js
